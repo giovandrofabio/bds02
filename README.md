@@ -1,5 +1,5 @@
 # TDD - Events and Cities 
-[![NPM](https://img.shields.io/npm/l/react)](https://github.com/roalbuquerque/TDD-Event-City/blob/master/LICENSE) 
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/giovandrofabio/bds02/blob/master/LICENSE) 
 
 # Sobre o projeto
 
@@ -11,7 +11,7 @@ O objetivo do exercício foi realizar a implementação necessária, para fazer 
 ## Modelo conceitual
 Eventos e cidades com uma relação N-1 entre eles:
 
-![Modelo Conceitual](https://github.com/roalbuquerque/TDD-Event-City/blob/master/assets/ModeloConceitual.png)
+![Modelo Conceitual](https://github.com/giovandrofabio/bds02/blob/main/assets/ModeloConceitual.png)
 
 # Tecnologias utilizadas
 ## Back end
@@ -33,17 +33,17 @@ git clone git@github.com:roalbuquerque/TDD-Event-City.git
 ```
 
 # Projeto no Spring Tool Suite
-![Projeto STS](https://github.com/roalbuquerque/TDD-Event-City/blob/master/assets/ProjetoSTS.png)
+![Projeto STS](https://github.com/giovandrofabio/bds02/blob/main/assets/ProjetoSTS.png)
 
 # Teste Executados
-![Testes Executados](https://github.com/roalbuquerque/TDD-Event-City/blob/master/assets/Testes%20Executados.png)
+![Testes Executados](https://github.com/giovandrofabio/bds02/blob/main/assets/Testes%20Executados.png)
 
 
 # Autor
 
-Rafael de Oliveira Albuquerque
+Giovandro Fabio dos Santos
 
 📫 Você pode me encontrar aqui:
 <p align="left">
-  <a href="https://www.linkedin.com/in/rafaeloliveiraalbuquerque/" alt="Linkedin">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafaeloliveiraalbuquerque/" /></a>
+  <a href="https://www.linkedin.com/in/giovandro-santos-2b46621b7/" alt="Linkedin">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/giovandro-santos-2b46621b7/" /></a>
