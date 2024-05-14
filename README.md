@@ -28,7 +28,7 @@ Pré-requisitos: Java 11
 
 ```bash
 # clonar repositório
-git clone git@github.com:roalbuquerque/TDD-Event-City.git
+git clone git@github.com:giovandrofabio/bds02.git
 
 ```
 
